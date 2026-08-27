@@ -29,6 +29,7 @@ below.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [Removing Unneeded Device Drivers to Harden a Windows System](./labs/2026-08-27-device-driver-management.md): using Windows Device Manager to scan for hardware changes, update a driver, disable/enable a device, and uninstall a device to see when a removal actually sticks.
 - [Threat-Feed-Driven Security Automation: Firewall Blocking, Malware Removal, and DNS Sinkholing](./labs/2026-08-26-threat-feed-firewall-automation.md): a three-part lab covering bash, iptables, and cron IP blocking (with a duplicate-rule bug found and fixed mid-lab), SHA-256-verified automated malware removal, and DNS sinkholing via /etc/hosts.
 <!-- LAB-INDEX-END -->
 
