@@ -24,6 +24,10 @@ reproduce CompTIA's, WGU's, or any vendor's proprietary lab instructions,
 screenshots of question text, or answer keys. See [Guardrails](#guardrails)
 below.
 
+[`huntress-trial/`](./huntress-trial) is a separate working log from a live
+trial of the Huntress Managed Security Platform (EDR, ITDR, SIEM, ISPM,
+SAT), hands-on work inside the actual product instead of a training lab.
+
 ## Index
 
 _(updated as labs are added, newest first)_
