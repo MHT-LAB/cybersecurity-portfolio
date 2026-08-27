@@ -29,6 +29,7 @@ below.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [Standing Up Credentialed and Uncredentialed Scans in Greenbone Security Assistant](./labs/2026-08-27-gsa-vulnerability-scan-setup.md): launching GSA/GVM and configuring both an uncredentialed and a credentialed scan target and task against a Windows Server 2016 system.
 - [Network Asset Discovery and Identification with nmap](./labs/2026-08-27-nmap-asset-discovery.md): ping sweeps, a combined SYN port scan, version scan, and OS detection scan across three subnets, comparing output formats along the way.
 - [Setting Linux File Permissions with chmod](./labs/2026-08-27-linux-file-permissions.md): practicing symbolic and octal chmod notation on Kali, then locking down demofile.sh to owner-full, group-execute, no access for others.
 - [Hardening a System by Blocking ICMP with Firewall Rules](./labs/2026-08-27-icmp-firewall-hardening.md): testing ICMP with ping between two Windows systems, then blocking Echo Request rules in Windows Defender Firewall with Advanced Security and re-testing.
