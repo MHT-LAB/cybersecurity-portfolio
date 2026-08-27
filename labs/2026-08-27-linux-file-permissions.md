@@ -44,7 +44,9 @@ everyone else.
 6. Ran `chmod 710 demofile.sh` and confirmed with `ls -l` that the
    permission string now read `-rwx--x---`.
 7. Read through the script with `cat demofile.sh` before running it, then
-   ran `./demofile.sh` now that it had execute permission.
+   ran `./demofile.sh` now that it had execute permission. It turned out
+   to be a small script that reads and prints the system date straight
+   from the file, not anything more involved.
 
 ## Findings
 
