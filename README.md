@@ -29,6 +29,7 @@ below.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [Hardening a System by Blocking ICMP with Firewall Rules](./labs/2026-08-27-icmp-firewall-hardening.md): testing ICMP with ping between two Windows systems, then blocking Echo Request rules in Windows Defender Firewall with Advanced Security and re-testing.
 - [Removing Unneeded Applications and Services](./labs/2026-08-27-remove-apps-services.md): uninstalling an unused app and removing the FTP role service on Windows Server through the Remove Roles and Features Wizard.
 - [Controlling Name Resolution with the Hosts File](./labs/2026-08-27-hosts-file-name-resolution.md): editing /etc/hosts on Kali to force, block, and redirect resolution of a domain, and testing each state with wget.
 - [Removing Unneeded Device Drivers to Harden a Windows System](./labs/2026-08-27-device-driver-management.md): using Windows Device Manager to scan for hardware changes, update a driver, disable/enable a device, and uninstall a device to see when a removal actually sticks.
