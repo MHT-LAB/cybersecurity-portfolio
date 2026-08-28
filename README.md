@@ -33,6 +33,7 @@ SAT), hands-on work inside the actual product instead of a training lab.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [Building Context Awareness on a Suspicious Email Through Header and OSINT Analysis](./labs/2026-08-28-email-header-analysis-phishing-investigation.md): chaining CentralOps, That'sThem, Have I Been Pwned, MXToolbox, WHOIS, ARIN, and IP2Location to investigate a spoofed Microsoft Defender phishing email, and why no single result in the chain is conclusive on its own.
 - [Context-Aware Vulnerability Prioritization: Matching CVEs to Network Documentation](./labs/2026-08-28-cve-network-context-prioritization.md): researching CVEs against an internal server segment, an external screened subnet, and an isolated legacy system, then cross-referencing network documentation and compensating controls (OS, segment, internet access direction, application allowlisting) to set real mitigation priority instead of ranking on CVSS score alone.
 - [Passive Vulnerability Scanning and OS Fingerprinting with Wireshark](./labs/2026-08-28-passive-scanning-wireshark.md): generating and reading ICMP and SSH traffic on a switched lab network to fingerprint OS type, spot ICMP filtering, and compare plaintext vs. encrypted traffic.
 - [Standing Up Credentialed and Uncredentialed Scans in Greenbone Security Assistant](./labs/2026-08-27-gsa-vulnerability-scan-setup.md): launching GSA/GVM and configuring both an uncredentialed and a credentialed scan target and task against a Windows Server 2016 system.
