@@ -33,6 +33,7 @@ SAT), hands-on work inside the actual product instead of a training lab.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [Recovering Hidden JPEG Evidence with Autopsy](./labs/2026-09-01-autopsy-hidden-jpeg-recovery.md): acquiring and hash-verifying a drive image, then using Autopsy to locate and recover five hidden JPEGs disguised through a renamed extension, deletion, deletion plus a renamed extension, and burial inside a zip archive, confirming each by its real file signature instead of its name.
 - [File Carving a Corrupted FAT Image by Rebuilding the Boot Sector](./labs/2026-09-01-file-carving-boot-sector-repair.md): recovering a corrupted FAT drive image by rebuilding its boot sector in testdisk after every metadata-based tool (fdisk, fiwalk, fsstat, mmls) failed, then copying out all 15 files it made accessible again.
 - [Recovering Deleted Files from an NTFS Image with tsk_recover](./labs/2026-09-01-ntfs-deleted-file-recovery.md): using tsk_recover to automatically pull deleted files, including a full deleted folder structure, from an NTFS drive image straight from its Master File Table.
 - [Finding a Hidden Partition on a Damaged MBR Disk Image](./labs/2026-09-01-hidden-partition-discovery.md): comparing fdisk, testdisk, and mmls output to find a logical drive stripped from an MBR partition table, then mounting the hidden partition directly to confirm what it held.
