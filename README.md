@@ -33,6 +33,7 @@ SAT), hands-on work inside the actual product instead of a training lab.
 _(updated as labs are added, newest first)_
 
 <!-- LAB-INDEX-START -->
+- [MS10 Server Assessment: Nmap Vulnerability Scanning and Adversary-in-the-Middle Credential Theft](https://github.com/MHT-LAB/cybersecurity-portfolio/blob/master/labs/2026-09-14-ms10-vuln-scan-aitm-credential-theft.md): Scanned a Windows Server 2016 host with nmap's NSE vuln scripts, then executed a social-engineering-driven AitM attack to intercept a victim's plaintext web login credentials via Burp Suite.
 - [Malware Triage with Sandbox Analysis and Hash Reputation Lookup](https://github.com/MHT-LAB/cybersecurity-portfolio/blob/master/labs/2026-09-13-malware-sandbox-and-hash-reputation-lookup.md): Explored Joe Sandbox Cloud's malware detonation reports (Zeus, Mirai) and used SHA1 hash lookups against MetaDefender Cloud to triage a suspicious file without uploading or executing it.
 - [File Analysis Fundamentals: Strings, Hash Verification, and Hex Editing](https://github.com/MHT-LAB/cybersecurity-portfolio/blob/master/labs/2026-09-13-file-analysis-strings-hashing-hexedit.md): Used `strings`, `md5sum`, and `hexeditor` on a Kali VM to triage unknown files, verify a forensic test image's integrity, and locate known keywords inside a raw disk image.
 - [OSINT Domain & IP Reconnaissance](https://github.com/MHT-LAB/cybersecurity-portfolio/blob/master/labs/2026-09-10-osint-domain-ip-recon.md): traced a suspicious domain and email-header IP through WHOIS, ARIN, AbuseIPDB, and authoritative DNS enumeration with nslookup and dig.
@@ -75,4 +76,4 @@ Huntress, Sigma detection rules, and Security+ (SY0-701).
 
 ## Contact
 
-Dustin Ramsey | [LinkedIn] | Mars Hill Technology
+Dustin Ramsey | [LinkedIn](www.linkedin.com/in/dustin-ramsey-805494392) | Mars Hill Technology
