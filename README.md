@@ -1,4 +1,5 @@
 # Dustin Ramsey: Security Operations Lab Notes
+![Security operations lab banner](assets/banner.png)
 
 Hands-on writeups from CompTIA CySA+ (CS0-003) lab work completed as part of WGU's
 D483 Security Operations course, plus related SOC and detection-engineering
